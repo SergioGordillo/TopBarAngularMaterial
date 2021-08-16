@@ -1,0 +1,10 @@
+.mat-toolbar-row, .mat-toolbar-single-row{
+    background-color: #46c3db;
+}
+
+.text-menu{
+    padding: 50px;
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
